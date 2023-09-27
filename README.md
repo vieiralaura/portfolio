@@ -13,8 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Tools | Project Description | Dashboard Link |
 |---|---|---|---|
-
-| - 💰 [Finance](https://github.com/vieiralaura/data-visualization) | Looker Studio | Built a dashboard for finance. | [Dashboard](https://lookerstudio.google.com/reporting/6a94f523-2170-4c7e-a977-c2e159304fbe) |
+| 💰 [Finance](https://github.com/vieiralaura/data-visualization) | Looker Studio | Built a dashboard for finance. | [Dashboard](https://lookerstudio.google.com/reporting/6a94f523-2170-4c7e-a977-c2e159304fbe) |
 
 
 ***
