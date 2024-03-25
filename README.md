@@ -13,6 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Tools | Project Description | Link |
 |---|---|---|---|
+| 🏃‍♀️ [Strava analysis](https://github.com/vieiralaura/data-visualization) | Excel/Google Sheeets | Analysing my exercise data from Strava | [Strava Project](https://docs.google.com/spreadsheets/d/1-jTefrbruD9bRUN04BC5x-Is1bFGTopfXYh7TdL-RXA/edit#gid=407158940) |
 | :bar_chart: [Storytelling With Data - Let's Practice](https://github.com/vieiralaura/data-visualization) | Excel/Google Sheeets | Practical exercises from Storytelling with Data Book | [My resolutions](https://docs.google.com/spreadsheets/d/1-jTefrbruD9bRUN04BC5x-Is1bFGTopfXYh7TdL-RXA/edit#gid=407158940) |
 | 💰 [Finance](https://github.com/vieiralaura/data-visualization) | Looker Studio | Built a dashboard for finance. | [Dashboard](https://lookerstudio.google.com/reporting/6a94f523-2170-4c7e-a977-c2e159304fbe) |
 
