@@ -1,5 +1,78 @@
 # Laura's Portfolio
 
+Welcome to my portfolio! Here, you'll find a collection of projects that showcase my skills in data analysis, Python programming, and data literacy training for non-technical teams.
+
+Welcome to my portfolio! This repository showcases my data analysis projects, demonstrating my expertise in various analytical tools and methodologies. Each project contains valuable insights derived from data exploration and visualization.
+
+## 📊 Data Analysis Projects
+
+Projects focused on data analysis, insights, and recommendations.
+
+| **Project**                          | **Tools**           | **Description**                                                                                                                                     | **Link**                                         |
+|--------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Marketing Funnel Analysis            | Python, Pandas, Seaborn | Analysis of customer journeys through various marketing funnel stages, identifying drop-off points and opportunities for optimization.               | [Project Folder](#)                              |
+| Marketing Campaign Analysis          | Python, Pandas      | Analysis of marketing campaigns to optimize customer acquisition and ROI across different acquisition channels.                                      | [Project Folder](#)                              |
+| Fraud Detection Analysis             | Python, Scikit-Learn | Developed a decision tree model to detect fraudulent transactions, enhancing transparency and reducing false positives.                              | [Project Folder](#)                              |
+| Customer Segmentation Analysis       | Python, K-means, Scikit-Learn | Used clustering techniques to segment customers based on behavior, allowing for targeted marketing and personalized offers.                         | [Project Folder](#)                              |
+
+## 🐍 Python Learning Journey
+Projects and exercises developed during my journey to deepen my Python skills.
+| **Study**                            | **Tools**           | **Description**                                                                                                                                     | **Link**                                         |
+|--------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| 100 Days of Code                     | Python              | A comprehensive 100-day challenge to master Python, covering topics from basic syntax to advanced data structures, algorithms, and data analysis.     | [100 Days of Code Repository](#)                 |
+| PySpark Migration Project            | PySpark, Databricks | Migrated a data processing workflow from SQL to PySpark, resulting in improved efficiency and scalability.                                           | [Project Overview](#)                            |
+
+
+## 🧠 Data Literacy Training
+Sessions designed to help non-technical teams understand and work with data more effectively.
+| **Session**                          | **Tools**           | **Description**                                                                                                                                     | **Link**                                         |
+|--------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Marketing Analytics                  | PowerPoint, Excel   | Presentation on key metrics and concepts in marketing analytics for non-technical team members.                                                      | [Session Folder](#)                              |
+| How to Use Google Data Studio        | Google Data Studio  | Training on how to create interactive dashboards and reports using Google Data Studio, enabling teams to visualize key data.                         | [Session Folder](#)                              |
+| Marketing Attribution Models         | PowerPoint          | Overview of different attribution models, focusing on understanding the strengths and weaknesses of each for marketing strategies.                    | [Session Folder](#)                              |
+
+
+
+
+Feel free to explore the projects and reach out if you have any questions or feedback!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 🌟 Portfolio Overview
+
+| **Analysis Title**                 | **Main Tool**          | **Description**                                                                                 | **Link to Project Folder**      |
+|------------------------------------|------------------------|-------------------------------------------------------------------------------------------------|----------------------------------|
+| My Strava Activities Analysis      | Python, Pandas         | Analyzed fitness activities tracked on Strava, providing insights into performance and trends. | [View Project](link-to-strava)   |
+| Marketing Campaign Performance     | SQL, Tableau           | Evaluated marketing campaign effectiveness by analyzing acquisition channels and costs.        | [View Project](link-to-marketing) |
+| Customer Segmentation Analysis     | R, ggplot2             | Segmented customers based on behavior and demographics to enhance targeting strategies.        | [View Project](link-to-segmentation) |
+| Fraud Detection Model              | Python, Scikit-learn   | Developed a machine learning model to identify potential fraudulent transactions.               | [View Project](link-to-fraud)    |
+| Sales Forecasting                  | Excel, Python          | Created predictive models to forecast future sales based on historical data.                  | [View Project](link-to-sales)     |
+| E-commerce User Behavior Analysis   | R, Shiny               | Analyzed user behavior on an e-commerce platform to identify key conversion factors.          | [View Project](link-to-ecommerce) |
+| Marketing Funnel Analysis          | Python, Matplotlib      | Investigated the customer journey through the marketing funnel, identifying drop-off points.   | [View Project](link-to-funnel)    |
+
+
+
+
+
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
