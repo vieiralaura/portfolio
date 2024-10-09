@@ -17,13 +17,9 @@ Projects focused on data analysis, insights, and recommendations.
 
 | **Analysis Title**                 | **Main Tool**          | **Description**                                                                                 | **Link to Project Folder**      |
 |------------------------------------|------------------------|-------------------------------------------------------------------------------------------------|----------------------------------|
-| 🚀 Marketing Funnel Analysis          | Excel/Google Sheets      | Investigated the customer journey through the marketing funnel, identifying drop-off points.   | [View Project](link-to-funnel)    |
-| Marketing Campaign Performance     | SQL, Tableau           | Evaluated marketing campaign effectiveness by analyzing acquisition channels and costs.        | [View Project](link-to-marketing) |
-| Customer Segmentation Analysis     | R, ggplot2             | Segmented customers based on behavior and demographics to enhance targeting strategies.        | [View Project](link-to-segmentation) |
-| Fraud Detection Model              | Python, Scikit-learn   | Developed a machine learning model to identify potential fraudulent transactions.               | [View Project](link-to-fraud)    |
-| E-commerce User Behavior Analysis   | R, Shiny               | Analyzed user behavior on an e-commerce platform to identify key conversion factors.          | [View Project](link-to-ecommerce) |
-| 🏃My Strava Activities Analysis      | Python, Pandas         | Analyzed fitness activities tracked on Strava, providing insights into performance and trends. | [View Project](link-to-strava)   |
-
+| Marketing Funnel Analysis          | Excel/Google Sheets      | Investigated the customer journey through the marketing funnel, identifying drop-off points.   | [View Project](https://github.com/vieiralaura/portfolio/tree/laura/Marketing%20Funnel%20Analysis) |
+| Customer Segmentation Analysis     | Python, SQL, Statistics | Analysed customer behavior and marketing campaign.        | [View Project](https://github.com/vieiralaura/portfolio/tree/laura/Customer%20Segmentation%20Analysis) |
+| Fraud Detection Analysis              | Python, Statistics   | Developed a fraud data analysis on a digital bank dataset              | [View Project](link-to-fraud)    |
 
 ***
 
