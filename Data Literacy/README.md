@@ -6,8 +6,6 @@ This repository contains a series of presentations designed to help non-technica
 |--------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | Marketing Analytics                  | PowerPoint, Excel   | Presentation on key metrics and concepts in marketing analytics for non-technical team members.                                                      | [Go to repository](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/Marketing%20Analytics)                              |
 | How to Use Google Data Studio        | Google Data Studio  | Training on how to create interactive dashboards and reports using Google Data Studio, enabling teams to visualize key data.                         | [Go to repository](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/Google%20Data%20Studio)                              |
-<<<<<<< HEAD
 | Marketing Attribution Models      | PowerPoint  | Overview of different attribution models, focusing on understanding the strengths and weaknesses of each for marketing strategies.                         | [Go to repository]()                              |
-=======
->>>>>>> a8ac20145fb743e8f1264d378a04c854502ffa36
+
 
