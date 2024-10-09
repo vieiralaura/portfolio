@@ -15,11 +15,11 @@ Each project contains valuable insights derived from data exploration and visual
 
 Projects focused on data analysis, insights, and recommendations.
 
-| **Analysis Title**                 | **Main Tool**          | **Description**                                                                                 | **Link to Project Folder**      |
+| **Analysis Title**                 | **Tools**          | **Description**                                                                                 | **Link to Project Folder**      |
 |------------------------------------|------------------------|-------------------------------------------------------------------------------------------------|----------------------------------|
 | Marketing Funnel Analysis          | Excel/Google Sheets      | Investigated the customer journey through the marketing funnel, identifying drop-off points.   | [View Project](https://github.com/vieiralaura/portfolio/tree/laura/Marketing%20Funnel%20Analysis) |
 | Customer Segmentation Analysis     | Python, SQL, Statistics | Analysed customer behavior and marketing campaign.        | [View Project](https://github.com/vieiralaura/portfolio/tree/laura/Customer%20Segmentation%20Analysis) |
-| Fraud Detection Analysis              | Python, Statistics   | Developed a fraud data analysis on a digital bank dataset              | [View Project](link-to-fraud)    |
+| Fraud Detection Analysis              | Python, Statistics   | Developed a fraud data analysis on a digital bank dataset              | [View Project](https://github.com/vieiralaura/portfolio/tree/laura/Fraud%20Detection%20Analysis)    |
 
 ***
 
@@ -28,7 +28,7 @@ Projects and exercises developed during my journey to deepen my Python skills
 
 | **Study**                            | **Tools**           | **Description**                                                                                                                                     | **Link**                                         |
 |--------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| 👩🏻‍💻 100 Days of Code                     | Python              | A comprehensive 100-day challenge to master Python, covering topics from basic syntax to advanced data structures, algorithms, and data analysis.     | [100 Days of Code Repository](#)                 |
+| 👩🏻‍💻 100 Days of Code                     | Python              | A comprehensive 100-day challenge to master Python, covering topics from basic syntax to advanced data structures, algorithms, and data analysis.     | [100 Days of Code](https://github.com/vieiralaura/portfolio/tree/laura/100%20days%20of%20code)                 |
 | PySpark Migration Project            | PySpark, Databricks | Migrated a data processing workflow from SQL to PySpark, resulting in improved efficiency and scalability.                                           | [Project Overview](#)                            |
 
 ***
