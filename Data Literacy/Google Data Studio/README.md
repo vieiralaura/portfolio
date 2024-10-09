@@ -8,7 +8,7 @@ Additionally, since the workshop used the client’s own data for hands-on exerc
 Note: Google Data Studio is now known as Looker Studio, and some features or functionalities may have changed. I plan to review and update the content in the future to ensure it reflects the most current version.
 
 ## Repository Content
-- **Slides**: [View the presentation](./slides/google-data-studio-presentation.pdf)
+- **Slides**: [Google Data Studio](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/Google%20Data%20Studio/slides)
 
 ## Topics Covered
 - What is Google Data Studio
