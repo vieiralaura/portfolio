@@ -33,7 +33,7 @@ Projects and exercises developed during my journey to deepen my Python skills
 
 ***
 
-## 🧠 Data Literacy Training
+## 🧠 Data Literacy Presentations
 Sessions designed to help non-technical teams understand and work with data more effectively
 
 | **Session**                          | **Tools**           | **Description**                                                                                                                                     | **Link**                                         |

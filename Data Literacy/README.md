@@ -1,0 +1,9 @@
+# Data Literacy Presentations for Non-Technical Teams
+This repository contains a series of presentations designed to help non-technical teams understand and utilize data in their day-to-day activities. Each one is tailored to different aspects of data literacy and aims to empower marketing teams, analysts, and other business units to make data-driven decisions.
+
+## Sessions
+| **Session**                          | **Tools**           | **Description**                                                                                                                                     | **Link**                                         |
+|--------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Marketing Analytics                  | PowerPoint, Excel   | Presentation on key metrics and concepts in marketing analytics for non-technical team members.                                                      | [Go to repository](./marketing-analytics)                              |
+| How to Use Google Data Studio        | Google Data Studio  | Training on how to create interactive dashboards and reports using Google Data Studio, enabling teams to visualize key data.                         | [Go to repository](./google-data-studio)                              |
+
