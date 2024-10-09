@@ -2,14 +2,16 @@
 
 ## 📝 Project Overview
 This project focuses on analyzing the conversion funnel of a user investment journey, with data extracted from website navigation logs.
-The goal is to identify areas of drop-off, assess user qualifications, and propose improvements to increase the overall conversion rates.
-It involves a thorough examination of the funnel’s performance, alongside recommendations for optimization.
 
 The funnel comprises four stages where users interact with the platform: 
 1 - Homepage: The landing page for all users entering the funnel
 2 - Questionnaire: A page where users answer questions about their investment profile and simulate the amount they intend to invest
 3 - Investment Plan: After the questionnaire responses are processed, the user is directed to a screen that displays the investment allocations identified for their profile. This is an important step, as it serves as a decision point where the user evaluates whether they like the proposed plan.
 4 - Registration: If the user is satisfied with the investment plan, they proceed to start the registration process. This is the final step of conversion.
+
+## 🎯 Objectives
+The goal is to identify areas of drop-off, assess user qualifications, and propose improvements to increase the overall conversion rates.
+It involves a thorough examination of the funnel’s performance, alongside recommendations for optimization.
 
 ## 🗂️ Dataset
 The dataset (user_navigation.csv) contains user navigation data, that tracks user progression through various stages of a conversion funnel. Key components include:
@@ -82,4 +84,5 @@ The analysis reveals key insights into user behavior throughout the conversion f
 This study was conducted while I was searching for my first job as a data analyst, in 2018, and I successfully secured a position!
 While I recognize that this analysis is quite basic, reflecting the level of a junior analyst, I plan to revisit it in the future to develop a more advanced approach.
 
-
+## 📧 Contact
+For any questions or suggestions, please contact [laurafbvieira@gmail.com](mailto:laurafbvieira@gmail).
