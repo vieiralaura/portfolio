@@ -38,9 +38,9 @@ Sessions designed to help non-technical teams understand and work with data more
 
 | **Session**                          | **Tools**           | **Description**                                                                                                                                     | **Link**                                         |
 |--------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| Marketing Analytics                  | PowerPoint, Excel   | Presentation on key metrics and concepts in marketing analytics for non-technical team members.                                                      | [Session Folder](#)                              |
-| How to Use Google Data Studio        | Google Data Studio  | Training on how to create interactive dashboards and reports using Google Data Studio, enabling teams to visualize key data.                         | [Session Folder](#)                              |
-| Marketing Attribution Models         | PowerPoint          | Overview of different attribution models, focusing on understanding the strengths and weaknesses of each for marketing strategies.                    | [Session Folder](#)                              |
+| Marketing Analytics                  | PowerPoint, Excel   | Presentation on key metrics and concepts in marketing analytics for non-technical team members.                                                      | [Session Folder](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/Marketing%20Analytics)                              |
+| How to Use Google Data Studio        | Google Data Studio  | Training on how to create interactive dashboards and reports using Google Data Studio, enabling teams to visualize key data.                         | [Session Folder](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/Google%20Data%20Studio)                              |
+| Marketing Attribution Models         | PowerPoint          | Overview of different attribution models, focusing on understanding the strengths and weaknesses of each for marketing strategies.                    | [Session Folder](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/Marketing%20Attribution%20Models)                              |
 
 
 
