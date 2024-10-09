@@ -4,7 +4,7 @@
 This presentation explains the concept of marketing attribution models, helping non-technical teams understand how to measure the impact of various marketing channels on conversion.
 
 ## Repository Content
-- **Slides**: [Marketing Attribution Models](link)
+- **Slides**: [Marketing Attribution Models](https://github.com/vieiralaura/portfolio/blob/laura/Data%20Literacy/Marketing%20Attribution%20Models/slides/Marketing%20Attribution%20Models%20-%20Laura%20Vieira.pdf)
 
 ## Topics Covered
 - Introduction to Attribution Models
