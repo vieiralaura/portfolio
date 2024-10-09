@@ -11,7 +11,7 @@ Each project contains valuable insights derived from data exploration and visual
 
 ***
 
-## 📊 Data Analysis Projects
+## 📊 Data Analytics Projects
 
 Projects focused on data analysis, insights, and recommendations.
 
