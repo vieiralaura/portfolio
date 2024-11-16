@@ -21,7 +21,7 @@ Create a program that suggests a band name based on user inputs of city and pet'
 4. Combine the name of their city and pet and show them their band name.
 
 ## Solution
-See [band_generator.py](./main.py) for the solution code.
+See [band_generator.py](./day01_band_generator.py) for the solution code.
 
 ## Links
 - [Thonny - Python IDE for beginners](https://thonny.org/ )
