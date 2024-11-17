@@ -12,6 +12,8 @@
 - Functions
 - Type conversion
 - Mathematical operations
+	- Basic +, -, *, /, //, **
+	- PEMDAS: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction
 - Number manipulations and F strings
 
 ## Challenge
