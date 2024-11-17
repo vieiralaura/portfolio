@@ -33,11 +33,14 @@ Projects and exercises developed during my journey to deepen my Python skills
 
 ***
 
-## 🧠 Data Literacy Presentations
+## 🧠 Data Literacy Resources
 Sessions designed to help non-technical teams understand and work with data more effectively
+This repository contains resources designed to help non-technical teams understand and utilize data effectively in their day-to-day activities. Each one focuses on a specific aspect of data literacy, offering tools and documentation tailored to the team needs.
+
 
 | **Session**                          | **Tools**           | **Description**                                                                                                                                     | **Link**                                         |
 |--------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Statistical Model Backtest       |           | Overview of baqcktests.                    | [Session Folder](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/)                              |
 | Marketing Analytics                  | PowerPoint, Excel   | Presentation on key metrics and concepts in marketing analytics for non-technical team members.                                                      | [Session Folder](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/Marketing%20Analytics)                              |
 | How to Use Google Data Studio        | Google Data Studio  | Training on how to create interactive dashboards and reports using Google Data Studio, enabling teams to visualize key data.                         | [Session Folder](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/Google%20Data%20Studio)                              |
 | Marketing Attribution Models         | PowerPoint          | Overview of different attribution models, focusing on understanding the strengths and weaknesses of each for marketing strategies.                    | [Session Folder](https://github.com/vieiralaura/portfolio/tree/laura/Data%20Literacy/Marketing%20Attribution%20Models)                              |
