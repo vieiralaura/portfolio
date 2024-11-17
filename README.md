@@ -34,7 +34,6 @@ Projects and exercises developed during my journey to deepen my Python skills
 ***
 
 ## 🧠 Data Literacy Resources
-This repository contains resources designed to help non-technical teams understand and utilize data effectively in their day-to-day activities. Each one focuses on a specific aspect of data literacy, offering tools and documentation tailored to the team needs.
 
 | **Session**                          | **Description**                                                                                                                                     | **Link**                                         |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
