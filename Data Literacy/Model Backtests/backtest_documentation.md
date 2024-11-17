@@ -115,7 +115,7 @@ This can harm the credibility of the backtest, as improper evaluations might lea
 ---
 
 ## Performance Measurement
-To evaluate model performance on the test dataset during the backtest, we rely on key metrics. The main ones used today are **KS** and **CSI**.
+To evaluate model performance on the test dataset during the backtest, we rely on key metrics. The main ones used today are **KS** and **CI**.
 These metrics are critical to demonstrate the model's effectiveness, but they depend on high-quality data and the presence of the response variable (fraud or not). Performance measurement is impossible without this variable.
 ### KS - Kolmogorov-Smirnov
 - **Definition**: Measures the model's ability to separate good orders (non-fraudulent) from bad ones (fraudulent).  
