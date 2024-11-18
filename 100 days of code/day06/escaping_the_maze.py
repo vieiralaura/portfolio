@@ -14,7 +14,7 @@ while not at_goal():
     elif front_is_clear():
         move()
     else: 
-        turn_left
+        turn_left()
         
         
         
