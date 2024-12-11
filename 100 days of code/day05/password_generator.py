@@ -26,20 +26,20 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 
-password = ""
-for l in range(nr_letters):
-    letter = random.choice(letters)
-    password = password + letter
+# password = ""
+# for l in range(nr_letters):
+#     letter = random.choice(letters)
+#     password = password + letter
 
-for s in range(nr_symbols):
-    symbol = random.choice(symbols)
-    password = password + symbol
+# for s in range(nr_symbols):
+#     symbol = random.choice(symbols)
+#     password = password + symbol
 
-for n in range(nr_numbers):
-    number = random.choice(numbers)
-    password = password + number
+# for n in range(nr_numbers):
+#     number = random.choice(numbers)
+#     password = password + number
 
-print(f"Your password is: {password}")
+# print(f"Your password is: {password}")
 
 ### Hard Version
 #When you've completed the easy version, you're ready to tackle the hard version. In the advanced version of this project the final 
